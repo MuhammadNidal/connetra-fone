@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Главная",
+    "destinations": "Направления",
+    "howItWorks": "Как это работает",
+    "coverage": "Покрытие",
+    "help": "Помощь",
+    "blog": "Блог",
+    "about": "О нас",
+    "careers": "Карьера",
+    "referral": "Реферальная программа",
+    "faq": "Часто задаваемые вопросы",
+    "terms": "Условия обслуживания",
+    "compatiblePhones": "Совместимые телефоны",
+    "allPlans": "Все тарифы",
+    "viewCart": "Просмотреть корзину",
+    "login": "Войти",
+    "signUp": "Зарегистрироваться",
+    "language": "Язык",
+    "darkMode": "Темный режим",
+    "lightMode": "Светлый режим",
+    "search": "Поиск направлений...",
+    "popular": "Популярные",
+    "regional": "Региональные"
+  },
+  "languages": {
+    "en": "Английский",
+    "ur": "Урду",
+    "ar": "Арабский",
+    "fr": "Французский",
+    "es": "Испанский",
+    "de": "Немецкий",
+    "zh": "Китайский",
+    "ja": "Японский",
+    "ko": "Корейский",
+    "pt": "Португальский",
+    "ru": "Русский",
+    "hi": "Хинди"
+  },
+  "footer": {
+    "description": "Ваш надежный партнер для глобальной связи. Оставайтесь на связи в любой точке мира с нашими премиальными решениями eSIM.",
+    "headquarters": "Глобальная штаб-квартира",
+    "supportAvailable": "Поддержка 24/7 доступна",
+    "email": "support@Connectra eSim.com",
+    "popularDestinations": {
+      "title": "Популярные направления",
+      "canada": "Канада 🇨🇦",
+      "uk": "Великобритания 🇬🇧",
+      "russia": "Россия 🇷🇺",
+      "uae": "ОАЭ 🇦🇪",
+      "dubai": "Дубай 🇦🇪"
+    },
+    "connectraSim": {
+      "title": "ConnectraeSim",
+      "referFriend": "Рекомендовать друга",
+      "termsOfService": "Условия обслуживания",
+      "aboutUs": "О нас",
+      "careers": "Карьера"
+    },
+    "esim": {
+      "title": "eSIM",
+      "whatIsEsim": "Что такое eSIM",
+      "supportedDevices": "Поддерживаемые устройства",
+      "howItWorks": "Как это работает",
+      "faqs": "Часто задаваемые вопросы",
+      "blog": "Блог"
+    },
+    "helpSocial": {
+      "title": "Помощь и социальные сети",
+      "helpCenter": "Центр помощи",
+      "esimCompatiblePhones": "Телефоны, совместимые с eSIM",
+      "supportCenter": "Центр поддержки",
+      "contactUs": "Связаться с нами",
+      "followUs": "Следите за нами"
+    },
+    "paymentMethods": "Мы принимаем:",
+    "copyright": "© 2025 Connectra eSim. Сделано с",
+    "madeBy": "от",
+    "techTrack": "TechTrack",
+    "company": "Компания",
+    "support": "Поддержка",
+    "legal": "Правовая информация",
+    "newsletter": "Рассылка",
+    "newsletterDesc": "Подпишитесь для получения обновлений и предложений",
+    "subscribe": "Подписаться",
+    "allRightsReserved": "Все права защищены",
+    "privacyPolicy": "Политика конфиденциальности",
+    "contact": "Контакты"
+  }
+}

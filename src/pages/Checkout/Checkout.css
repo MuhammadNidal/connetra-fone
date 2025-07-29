@@ -1,0 +1,193 @@
+.checkout-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  /* background: #e6f0fa; */
+}
+
+.checkout-content {
+  display: flex;
+  gap: 30px;
+}
+
+.left-panel, .right-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.account-section, .payment-section, .order-section, .total-section {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+.account-section h2, .payment-section h2, .order-section h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.form-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.email-note {
+  color: #666;
+  font-size: 12px;
+  margin-bottom: 15px;
+}
+
+.proceed-btn {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.login-toggle {
+  font-size: 12px;
+  color: #666;
+  text-align: center;
+}
+
+.payment-methods {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.payment-method {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.payment-method input {
+  margin-right: 10px;
+}
+
+.payment-icon {
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.payment-terms, .security-note {
+  font-size: 12px;
+  color: #666;
+  margin-top: 10px;
+}
+
+.order-item {
+  margin-bottom: 15px;
+}
+
+.order-item h4 {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.item-details {
+  font-size: 12px;
+  color: #333;
+}
+
+.detail-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.item-price {
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 10px 0;
+}
+
+.order-total {
+  margin-top: 15px;
+}
+
+.total-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.discount {
+  color: #007bff;
+}
+
+.grand-total {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #ddd;
+}
+
+.currency-note {
+  font-size: 12px;
+  color: #666;
+  margin-top: 10px;
+}
+
+.trustpilot-widget {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+  color: #333;
+  margin-top: 15px;
+}
+
+.stars {
+  color: #00b67a;
+}
+
+.edit-cart {
+  display: block;
+  text-align: center;
+  color: #007bff;
+  text-decoration: none;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.legal-links {
+  font-size: 12px;
+  color: #666;
+  text-align: center;
+  margin-top: 15px;
+}

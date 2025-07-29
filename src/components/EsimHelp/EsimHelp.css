@@ -1,0 +1,225 @@
+/* General Wrapper */
+.support-wrapper {
+  max-width: 1200px;
+  /* margin-top: 2000px; */
+  /* margin: 120px 140px; */
+  font-family: Arial, sans-serif;
+}
+
+/* Breadcrumb Text */
+.breadcrumb-text {
+  font-size: 1rem;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  color: #6298d1;
+}
+
+/* Header Layout */
+.support-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+/* Header-right Section (Flex Row Layout) */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: 10px;
+}
+
+/* Breadcrumb Wrapper (Takes the remaining space on the left) */
+.breadcrumb-wrapper {
+  flex: 1;
+}
+
+/* Search Wrapper and Button */
+.search-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+/* Search Box Alignment */
+.search-box {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.search-icones {
+  font-size: 20px;
+  margin-left: -10px;
+  margin-right: 8px;
+  color: rgb(175, 165, 165);
+}
+
+/* Search Input */
+.search-input {
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 120px;
+}
+
+/* Follow Button */
+.follow-btnEh {
+  background: white;
+  color: #4ca7bc;
+  border: 1px solid #53b1c6;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.1rem;
+  margin-left: 990px;
+}
+
+/* Help Description */
+.support-description {
+  font-size: 14px;
+  color: #363535;
+  font-weight: bolder;
+  margin-right: 760px;
+}
+
+/* Help Topics List */
+.topics-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.topic-item {
+  font-size: 16px;
+  padding: 8px 0;
+  color: #1d1f22;
+  cursor: pointer;
+}
+
+/* Starred Items */
+.starred-topic {
+  font-weight: bold;
+}
+
+.star-icon {
+  color: gold;
+  margin-right: 5px;
+}
+
+/* Responsive Design with Media Queries */
+
+/* Small Screens (Mobile) */
+@media (max-width: 600px) {
+  .support-wrapper {
+    margin: 80px 20px;
+  }
+
+  .breadcrumb-text {
+    font-size: 0.9rem;
+    margin-top: 15px;
+  }
+
+  .header-container {
+    flex-direction: row; /* Change from column to row layout */
+    justify-content: space-between; /* Space between breadcrumb and search */
+  }
+
+  .breadcrumb-wrapper {
+    margin-bottom: 10px;
+    flex: 1; /* Make breadcrumb take up available space */
+  }
+
+  .search-wrapper {
+    gap: 20px;
+  }
+
+  .search-input {
+    width: 40%;
+  }
+
+  .follow-btnEh {
+    width:40%;
+    margin-left: 190px;
+
+  }
+
+  .support-description {
+    margin-right: 0;
+    font-size: 12px;
+  }
+
+  .topics-list {
+    padding-left: 10px;
+  }
+}
+
+/* Medium Screens (Tablets) */
+@media (min-width: 601px) and (max-width: 1024px) {
+  .support-wrapper {
+    margin: 20px 20px;
+  }
+
+  .breadcrumb-text {
+    font-size: 1rem;
+    margin-top: 25px;
+  }
+
+  .header-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .search-wrapper {
+    gap: 15px;
+  }
+
+  .search-input {
+    width: 140px;
+  }
+
+  .follow-btnEh {
+    width: auto;
+    margin-left: 500px;
+  }
+
+  .support-description {
+    margin-right: 600px;
+    font-size: 13px;
+  }
+}
+
+/* Large Screens (Desktop and above) */
+@media (min-width: 1025px) {
+  .support-wrapper {
+    margin: 20px 140px;
+  }
+
+  .breadcrumb-text {
+    font-size: 1rem;
+    margin-top: 30px;
+  }
+
+  .header-container {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .search-wrapper {
+    gap: 20px;
+  }
+
+  .search-input {
+    width: 120px;
+  }
+
+  .follow-btnEh {
+    width: auto;
+    margin-left: 990px;
+  }
+
+  .support-description {
+    margin-right: 760px;
+  }
+}

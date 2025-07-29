@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "ホーム",
+    "destinations": "目的地",
+    "howItWorks": "仕組み",
+    "coverage": "カバレッジ",
+    "help": "ヘルプ",
+    "blog": "ブログ",
+    "about": "私たちについて",
+    "careers": "キャリア",
+    "referral": "紹介",
+    "faq": "よくある質問",
+    "terms": "利用規約",
+    "compatiblePhones": "対応機種",
+    "allPlans": "全プラン",
+    "viewCart": "カートを見る",
+    "login": "ログイン",
+    "signUp": "サインアップ",
+    "language": "言語",
+    "darkMode": "ダークモード",
+    "lightMode": "ライトモード",
+    "search": "目的地を検索...",
+    "popular": "人気",
+    "regional": "地域"
+  },
+  "languages": {
+    "en": "英語",
+    "ur": "ウルドゥー語",
+    "ar": "アラビア語",
+    "fr": "フランス語",
+    "es": "スペイン語",
+    "de": "ドイツ語",
+    "zh": "中国語",
+    "ja": "日本語",
+    "ko": "韓国語",
+    "pt": "ポルトガル語",
+    "ru": "ロシア語",
+    "hi": "ヒンディー語"
+  },
+  "footer": {
+    "description": "グローバルな接続のための信頼できるパートナー。プレミアムeSIMソリューションで世界中どこでも接続を維持。",
+    "headquarters": "グローバル本社",
+    "supportAvailable": "24/7サポート利用可能",
+    "email": "support@Connectra eSim.com",
+    "popularDestinations": {
+      "title": "人気の目的地",
+      "canada": "カナダ 🇨🇦",
+      "uk": "イギリス 🇬🇧",
+      "russia": "ロシア 🇷🇺",
+      "uae": "アラブ首長国連邦 🇦🇪",
+      "dubai": "ドバイ 🇦🇪"
+    },
+    "connectraSim": {
+      "title": "ConnectraeSim",
+      "referFriend": "友達を紹介",
+      "termsOfService": "利用規約",
+      "aboutUs": "私たちについて",
+      "careers": "キャリア"
+    },
+    "esim": {
+      "title": "eSIM",
+      "whatIsEsim": "eSIMとは",
+      "supportedDevices": "対応デバイス",
+      "howItWorks": "仕組み",
+      "faqs": "よくある質問",
+      "blog": "ブログ"
+    },
+    "helpSocial": {
+      "title": "ヘルプ＆ソーシャル",
+      "helpCenter": "ヘルプセンター",
+      "esimCompatiblePhones": "eSIM対応電話",
+      "supportCenter": "サポートセンター",
+      "contactUs": "お問い合わせ",
+      "followUs": "フォローする"
+    },
+    "paymentMethods": "利用可能な支払い方法：",
+    "copyright": "© 2025 Connectra eSim。",
+    "madeBy": "by",
+    "techTrack": "TechTrack",
+    "company": "会社",
+    "support": "サポート",
+    "legal": "法的事項",
+    "newsletter": "ニュースレター",
+    "newsletterDesc": "更新情報とオファーを受け取るには購読してください",
+    "subscribe": "購読",
+    "allRightsReserved": "全著作権所有",
+    "privacyPolicy": "プライバシーポリシー",
+    "contact": "お問い合わせ"
+  }
+}

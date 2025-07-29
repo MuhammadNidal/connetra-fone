@@ -1,0 +1,6 @@
+.esim_all_countries{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--background-color);
+}

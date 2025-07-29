@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "होम",
+    "destinations": "गंतव्य",
+    "howItWorks": "यह कैसे काम करता है",
+    "coverage": "कवरेज",
+    "help": "सहायता",
+    "blog": "ब्लॉग",
+    "about": "हमारे बारे में",
+    "careers": "करियर",
+    "referral": "रेफरल",
+    "faq": "अक्सर पूछे जाने वाले प्रश्न",
+    "terms": "सेवा की शर्तें",
+    "compatiblePhones": "संगत फोन",
+    "allPlans": "सभी प्लान",
+    "viewCart": "कार्ट देखें",
+    "login": "लॉगिन",
+    "signUp": "साइन अप",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "lightMode": "लाइट मोड",
+    "search": "गंतव्य खोजें...",
+    "popular": "लोकप्रिय",
+    "regional": "क्षेत्रीय"
+  },
+  "languages": {
+    "en": "अंग्रेजी",
+    "ur": "उर्दू",
+    "ar": "अरबी",
+    "fr": "फ्रेंच",
+    "es": "स्पेनिश",
+    "de": "जर्मन",
+    "zh": "चीनी",
+    "ja": "जापानी",
+    "ko": "कोरियाई",
+    "pt": "पुर्तगाली",
+    "ru": "रूसी",
+    "hi": "हिंदी"
+  },
+  "footer": {
+    "description": "वैश्विक कनेक्टिविटी के लिए आपका विश्वसनीय साथी। हमारे प्रीमियम eSIM समाधानों के साथ दुनिया में कहीं भी जुड़े रहें।",
+    "headquarters": "वैश्विक मुख्यालय",
+    "supportAvailable": "24/7 सहायता उपलब्ध",
+    "email": "support@Connectra eSim.com",
+    "popularDestinations": {
+      "title": "लोकप्रिय गंतव्य",
+      "canada": "कनाडा 🇨🇦",
+      "uk": "यूनाइटेड किंगडम 🇬🇧",
+      "russia": "रूस 🇷🇺",
+      "uae": "संयुक्त अरब अमीरात 🇦🇪",
+      "dubai": "दुबई 🇦🇪"
+    },
+    "connectraSim": {
+      "title": "ConnectraeSim",
+      "referFriend": "मित्र को रेफर करें",
+      "termsOfService": "सेवा की शर्तें",
+      "aboutUs": "हमारे बारे में",
+      "careers": "करियर"
+    },
+    "esim": {
+      "title": "eSIM",
+      "whatIsEsim": "eSIM क्या है",
+      "supportedDevices": "समर्थित डिवाइस",
+      "howItWorks": "यह कैसे काम करता है",
+      "faqs": "अक्सर पूछे जाने वाले प्रश्न",
+      "blog": "ब्लॉग"
+    },
+    "helpSocial": {
+      "title": "सहायता और सामाजिक",
+      "helpCenter": "सहायता केंद्र",
+      "esimCompatiblePhones": "eSIM संगत फोन",
+      "supportCenter": "सहायता केंद्र",
+      "contactUs": "हमसे संपर्क करें",
+      "followUs": "हमें फॉलो करें"
+    },
+    "paymentMethods": "हम स्वीकार करते हैं:",
+    "copyright": "© 2025 Connectra eSim।",
+    "madeBy": "द्वारा",
+    "techTrack": "TechTrack",
+    "company": "कंपनी",
+    "support": "सहायता",
+    "legal": "कानूनी",
+    "newsletter": "न्यूज़लेटर",
+    "newsletterDesc": "अपडेट और ऑफ़र प्राप्त करने के लिए सब्सक्राइब करें",
+    "subscribe": "सब्सक्राइब करें",
+    "allRightsReserved": "सभी अधिकार सुरक्षित",
+    "privacyPolicy": "गोपनीयता नीति",
+    "contact": "संपर्क"
+  }
+}

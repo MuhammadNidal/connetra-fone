@@ -1,0 +1,152 @@
+.account-answer-container {
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    flex-wrap: wrap;
+  }
+  
+  /* Sidebar Styles (Desktop) */
+  .sidebar {
+    width: 300px;
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    height: fit-content;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .sidebar-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .sidebar-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .sidebar-link {
+    display: block;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    color: #333;
+    border-radius: 5px;
+    transition: background-color 0.2s ease-in-out;
+  }
+  
+  .sidebar-link:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .sidebar-link.active {
+    background-color: var(--button-hover-color);
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Answer Content */
+  .answer-content {
+    flex: 1;
+    min-width: 300px;
+  }
+  
+  .answer-content h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+ .answer-content p {
+  display: flex;
+  justify-content: start;
+  color: gray;
+  /* max-width: 50rem; */
+  line-height: 1.6;
+  margin-bottom: 12px;
+}
+
+  .answer-content h4 {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .answer-content ul {
+    padding-left: 20px;
+  }
+  
+  /* Mobile Dropdown Styles */
+  .mobile-dropdown {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .answer-dropdown-toggle {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 16px;
+    text-align: left;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .account-dropdown-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 8px;
+  }
+  
+  .dropdown-menu li {
+    border-bottom: 1px solid #eee;
+    
+  }
+  
+  .dropdown-menu li:last-child {
+    border-bottom: none;
+  }
+  
+  .dropdown-menu .sidebar-link {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .account-dropdown-menu .sidebar-link.active {
+    background-color: var(--button-hover-color);
+    color: white;
+    font-weight: bold;
+  }
+
+  .custom-link {
+  color: #007bff; /* default link color */
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.custom-link:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+  
+  /* Hide sidebar on small screens */
+  @media screen and (max-width: 768px) {
+    .sidebar {
+      display: none;
+    }
+  
+    .account-answer-container {
+      flex-direction: column;
+    }
+  }
+  

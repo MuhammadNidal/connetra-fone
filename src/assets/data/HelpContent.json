@@ -1,0 +1,943 @@
+[
+  {
+    "id": "1",
+    "question": " iMessage Not Working Sending & Receiving SMS on iPhone",
+    "answer": {
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "When you install a Connectra eSIM, your phone will add a new secondary line for mobile data. The secondary line (eSIM plan) should be used for data only, while your <strong>Primary</strong> line is set as the <strong> Default Voice Line</strong>."
+        },
+       {
+  "type": "heading",
+  "text": "Set the Default Voice Line.\n \n"
+}
+,
+        {
+          "type": "list",
+          "items": [
+            "Open <strong> Settings </strong> and go to <strong> Cellular </strong> (it may be called Mobile or Mobile Service).\n",
+            "Tap <strong> Default Voice Line </strong>",
+            "Select <strong> Primary </strong>, or the line with your <strong> phone number </strong> .\n .\n"
+          ]
+        },
+       
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/IMG_1796.PNG",
+            "/images/faq/IMG_1833.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "iMessage Send & Receive Addresses .\n\n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Since the eSIM plan does not support voice or SMS, we don't want to enable it for iMessage. Trying to send iMessages directly through the eSIM line will fail."
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong> Note: </strong> You can still use the eSIM internet connection to send and receive calls and SMS, but this needs to be supported by your carrier, and additional charges may apply. See<blue> How to Enable Calling and Texting on your eSIM (Wi-Fi Calling)</blue>"
+        },
+        { 
+          "type": "heading",
+          "text": "Set the iMessage Send & Receive Addresses .\n\n"
+        },
+         
+        {
+          "type": "list",
+          "items": [
+            "Open <strong> Settings </strong> and go to <strong>Messages </strong>  (Settings for iMessage)",
+            "Tap  <strong>  Send & Receive</strong>",
+            "<strong> Enable</strong>  your <strong>  Primary phone number</strong> and <strong> Apple ID </strong>(place a check mark)",
+            " <strong>Disable </strong> the eSIM plan (remove the check mark) .\n\n"
+          ]
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/IMG_1796.PNG",
+            "/images/faq/IMG_1796.PNG",
+            "/images/faq/IMG_1796.PNG"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "question": "Error 'This code is no longer valid' on iPhone",
+    "answer": {
+    "sections": [
+  {
+    "type": "heading",
+    "text": "Data Plan Cannot be Added .\n \n"
+  },
+  {
+    "type": "paragraph",
+    "text": "\" <strong>This code is no longer valid. Contact your carrier for more information.</strong>\""
+  },
+  {
+    "type": "paragraph",
+    "text": "After activating your eSIM via QR code or manual activation code, you may see the above error message on your iPhone."
+  },
+  {
+    "type": "heading",
+    "text": "Solution"
+  },
+  {
+    "type": "list",
+    "items": [
+      "<strong>Check internet connection</strong><br /><br />First, please make sure your phone has a working Wi-Fi or cellular internet connection before installing the eSIM. An internet connection is required to verify and activate the eSIM. .\n \n\n",
+   "<strong>eSIM is already installed</strong><br /><br />Most often, the eSIM is already installed on your phone. This can happen in the background after scanning the QR code. Please verify the following settings:<br /><br /> Open<strong> Settings</strong><br /> Tap  <strong> Cellular</strong> (or 'Mobile Data' in the UK)<br />Tap<strong> Cellular Data</strong> at the top, and select the eSIM plan on the following page. This will tell the phone to use the eSIM plan for data connections.<br />  Return to<strong> Cellular</strong>, scroll down and tap your eSIM plan. It may be called 'Personal', 'Travel', or 'Secondary'.<br />Confirm<strong>Turn On This Line is ON</strong><br /> Confirm<strong> Data Roaming is ON</strong><br /><br />If you can find the Maya Mobile eSIM following the steps above, and the settings are correct, the eSIM will be ready to connect automatically when you arrive. No further action is required!"
+ ]
+  }
+]
+
+    }
+  },
+  {
+    "id": "3",
+    "question": "How to Install an eSIM ",
+    "answer": {
+      "sections": [
+        {
+          "type": "heading",
+          "text": "How to Buy an eSIM .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "First, select an eSIM data package for the country where you are traveling, or currently located. You can find our full selection of eSIM cards on <blue> Connectraesim.com </blue> "
+        },
+        {
+          "type": "paragraph",
+          "text": "After purchasing an eSIM, you will usually receive a QR Code via <strong> email</strong> within 5 minutes. "
+        },
+        {
+          "type": "heading",
+          "text": "How to Activate an eSIM .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Activation is simple. Follow the steps below:  "
+        },
+       {
+  "type": "heading",
+  "text": "iPhone .\n \n"
+},
+{
+  "type": "list",
+  "items": [
+    "<strong>Tap and hold</strong> the QR code, and select <strong>Add eSIM</strong>. Alternatively, you can use the <strong>Camera</strong> app to scan the QR code.",
+    "On the following screen, <strong>follow the prompts</strong> to install the new <strong>Data Plan</strong>. The default options are okay to accept.",
+    "Once the new <strong>Data Plan</strong> has been added, make sure that <strong>Data Roaming</strong> is set to <strong>ON</strong> in your phone's <strong>Settings</strong>."
+  ]
+},
+{
+  "type": "heading",
+  "text": "Android . \n \n"
+},
+{
+  "type": "list",
+  "items": [
+    "On the device where you want to install the eSIM data plan, open the <strong>Camera</strong> app.",
+    "Point the camera at the <strong>QR Code</strong>. Tap on the <strong>notification</strong> that appears, which should say <strong>Data Plan</strong>.",
+    "On the following screen, <strong>follow the prompts</strong> to install the new <strong>Data Plan</strong>. The default options are okay to accept.",
+    "Once the new <strong>Data Plan</strong> has been added, make sure that <strong>Data Roaming</strong> is set to <strong>ON</strong> in your phone's <strong>Settings</strong>."
+  ]
+}
+,
+      {
+  "type": "heading",
+  "text": "Recommendations .\n \n"
+},
+{
+  "type": "list",
+  "items": [
+    "Turn off <strong>Data Roaming</strong> on your <strong>Primary</strong> line (home SIM card) to prevent data roaming charges.",
+    "If you install the <strong>eSIM</strong> before you arrive in your destination, be sure to set the <strong>eSIM</strong> to your primary <strong>Cellular / Mobile Data</strong> plan when you arrive.",
+    "<blue>IMPORTANT:</blue> Turn on <blue>Low Data Mode</blue> (iPhone) or <blue>Data Saver mode</blue> (Android) to prevent background data while using your <strong>eSIM</strong>."
+  ]
+}
+,
+        {
+          "type": "heading",
+          "text": "Example (iPhone) "
+        },
+        {
+          "type": "paragraph",
+          "text": "Below we will walk through the steps with the correct settings to install the eSIM on iPhone:"
+        },
+        {
+          "type": "heading",
+          "text": "1. Add eSIM "
+        },
+        {
+          "type": "paragraph",
+          "text": "In this step, you will add a new, secondary data plan to your phone using the QR code. <string>  Note:</string> If you can't use the Camera to scan a QR code, try Activate an eSIM with Manual Activation Code."
+        },
+        {
+          "type": "images",
+          "images": [
+
+            "/images/faq/01.PNG",
+            "/images/faq/02.PNG",
+            "/images/faq/03.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "2. Activate eSIM"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this step, you can assign a name to the eSIM plan on your phone. Name it Connectra eSIM or the name of the country you're visiting!"
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/04.PNG",
+            "/images/faq/05.PNG",
+            "/images/faq/06.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Choose Default Lines"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this step, tell the phone which plan to use for Voice/SMS, iMessage, and Mobile Data. Choose Primary for the first two options, and use the Maya Mobile eSIM for mobile data only."
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/07.PNG",
+            "/images/faq/08.PNG",
+            "/images/faq/09.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "4. Enable Data Roaming "
+        },
+        {
+          "type": "paragraph",
+          "text": "By now, the eSIM is installed on your phone! You will see the new plan in your Settings with the label you chose."
+        },
+        {
+          "type": "paragraph",
+          "text": "The last step is to make sure Data Roaming is turned ON for the eSIM. (You can turn this setting OFF on your Primary line.)"
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/10.PNG",
+            "/images/faq/11.PNG"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "On the same screen, you can select Data Mode, and then select Low Data Mode. This helps to conserve your data by preventing background data usage when the eSIM is in use. "
+        },
+      {
+  "type": "heading",
+  "text": "Connecting to the Internet \n \n"
+},
+{
+  "type": "paragraph",
+  "text": "After successfully activating your <strong>eSIM</strong>, your device will begin searching for a signal immediately. In most cases, a <strong>data connection</strong> will be established immediately, and you will see <strong>5G</strong> or <strong>4G LTE</strong> in the signal status. This means you are connected and ready to go!"
+},
+{
+  "type": "paragraph",
+  "text": "In rare cases, it may take <strong>up to 15 minutes</strong> for a <strong>data connection</strong> to be established. Please be patient, as there are many <strong>data carriers</strong> and <strong>environmental factors</strong> that can affect the activation time."
+}
+
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "question": "eSIM Connection Troubleshooting Guide ",
+    "answer": {
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "There are multiple reasons why your eSIM may appear connected to the network, but is not getting an Internet connection on a 4G LTE or 5G network.  "
+        },
+        {
+          "type": "paragraph",
+          "text": "You may experience the following problems when the eSIM is not connected to a data network:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Extremely slow download/upload speeds ",
+            "Only E (Edge) appears in the signal status, no 4G LTE or 5G",
+            "No Internet connection, even though eSIM shows a connection"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To troubleshoot the above issues, please follow these steps:"
+        },
+        {
+          "type": "paragraph",
+          "text": "<red>IMPORTANT: DO NOT DELETE THE eSIM FROM YOUR PHONE!</red> If it's not working, don't worry, please follow the steps below or <blue> Contact Us </blue> if you need assistance."
+        },
+        {
+          "type": "heading",
+          "text": "1. Are you in the eSIM service area? .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note that your eSIM will work only in the purchased destination. For example, a USA eSIM will connect only in the USA. You can install the eSIM on your device any time, but it will not connect to a network until you arrive in your destination."
+        },
+        {
+          "type": "heading",
+          "text": "2. Turn on Roaming Data .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Roaming Data must be enabled for the eSIM to connect to a network."
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/12.PNG",
+            "/images/faq/13.PNG",
+            "/images/faq/14.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "iPhone / iPad (iOS) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "In your phone's Settings, go to Cellular (Mobile or Mobile Service) and select the eSIM data plan under Cellular Plans. The eSIM plan may be called 'Secondary' or 'Personal.'",
+            "Make sure Turn On This Line is set to ON.",
+            "Make sure Roaming Data is set to ON."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Samsung Galaxy (Android) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open Settings and go to Connections",
+            "Tap on Mobile Networks",
+            "Confirm Data Roaming is ON "
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Google Pixel (Android) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open Settings ",
+            "Tap Network and Internet ",
+            "Tap on SIMs, and on the following page, select the eSIM plan.",
+            "Enable Data Roaming and Mobile Data."
+          ]
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/15.PNG",
+            "/images/faq/16.PNG",
+            "/images/faq/17.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Apple iOS (iPhone) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "In your phone's Settings, go to Cellular (Mobile or Mobile Service)",
+            "Tap Cellular Data (Mobile Data) at the top to enter a menu where you can select the data plan to use. ",
+            "Make sure the eSIM is selected. It may be called 'Secondary,'' 'Personal,'' 'Travel,'' or another name. In our example, it's called 'ConnectraeSIM', but it will have the same name as the plan on the previous screen (Travel). ",
+            "Enable Data Roaming and Mobile Data."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Samsung Galaxy (Android) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open Settings and go to Connections  ",
+            "Tap SIM Card Manager at the top, and on the following page select the eSIM plan for Mobile Data. This will tell the phone to use the eSIM plan for data connections."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Google Pixel (Android) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open Settings ",
+            "Tap Network and Internet",
+            "Tap on SIMs, and on the following page, select the eSIM plan."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "4. Android Only - Configure APN .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are using an eSIM on an Android device and there is no data connection, please check the APN settings by following the steps below: "
+        },
+        {
+          "type": "list",
+          "items": [
+            "In your phone's Settings, go to Mobile & Network (On Samsung, go to Settings > Connections > Mobile Networks) ",
+            "Tap the eSIM plan, then go to Access Point Names ",
+            "Tap Menu, then tap New APN ",
+            "In the first field called APN, enter globaldata. If there is anything filled in username or password, delete it. Only the APN name is required.  ",
+            "Return to the previous screen and select the new APN. "
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "5. Reset the data connection .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "On your device Settings screen, enable Airplane Mode and wait 30 seconds, then switch off again. This will force the device to re-connect to the cellular network. Wait up to 15 minutes for the eSIM data plan to successfully authenticate and begin receiving 4G LTE or 5G data. "
+        },
+        {
+          "type": "paragraph",
+          "text": "After successfully activating your eSIM, your device will begin searching for a signal immediately. In most cases, a data connection will be established immediately, and you will see 5G or 4G LTE in the signal status. This means you are connected and ready to go!"
+        },
+        {
+          "type": "heading",
+          "text": "6. Manually select a network .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "If resetting the data connection does not work, you may need to select a network manually. Follow the steps below:"
+        },
+        {
+          "type": "heading",
+          "text": "Apple iOS (iPhone) .\n \n"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open Settings ",
+            "Go to Cellular and select the eSIM data plan under Cellular Plans ",
+            "Tap Network Selection, and on the following screen, switch Automatic to Off. Wait for the list of available networks to appear. ",
+            "Manually select an available network and wait for the signal status to update. You should see the signal status in the top bar switch to 'Searching' when you select a new network.",
+            "After finding a network that connects, toggle Automatic back to On."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please feel free to contact us if you need to manually select a network, so we can tell you which networks are the best to connect to."
+        },
+        {
+          "type": "heading",
+          "text": "Still no data connection  .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please Submit a request, and we will get right back to you!"
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are sure that the above steps do not resolve the issue, it is possible you are in an area without service, or there is a network issue out of our control that is affecting service. The best thing to do is wait and check later. Leave the Network Selection set to Automatic, and the device will continue searching for a signal."
+        }
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "question": "Error Operation Code: 9 / Error Code: 10014 on Google Pixel",
+    "answer": {
+      "sections": [
+        {
+          "type": "heading",
+          "text": " Couldn't activate service"
+        },
+        {
+          "type": "heading",
+          "text": " There's an issue with your SIM profile. To fix the issue, contact your carrier."
+        },
+        {
+          "type": "heading",
+          "text": "Operation Code: 9 "
+        },
+        {
+          "type": "heading",
+          "text": "Error Code: 10014 "
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/18.png"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "After activating your eSIM via QR code or manual activation code, you may see the above error message on your Google Pixel phone."
+        },
+        {
+          "type": "heading",
+          "text": "Solution"
+        },
+        {
+          "type": "paragraph",
+          "text": "Due to an issue with the way Google Pixel phones read eSIM QR codes, you need to use the Manual Activation Code to activate the eSIM on your phone. Not to worry, this is an easy process! Please follow the steps in our guide: <blue> How to activate an eSIM with Manual Activation Code </blue>"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "question": " Error Unable to Activate eSIM on iPhone",
+    "answer": {
+      "sections": [
+        {
+          "type": "heading",
+          "text": " Unable to Activate eSIM "
+        },
+        {
+          "type": "heading",
+          "text": "You can try again, or contact your carrier for assistance."
+        },
+        {
+          "type": "paragraph",
+          "text": "After activating your eSIM via QR code or manual activation code, you may see the above error message on your iPhone. "
+        },
+        {
+          "type": "heading",
+          "text": "Solution"
+        },
+        {
+          "type": "heading",
+          "text": "1. Check internet connection "
+        },
+        {
+          "type": "paragraph",
+          "text": "First, please make sure your phone has a working Wi-Fi or cellular internet connection before installing the eSIM. An internet connection is required to verify and activate the eSIM."
+        },
+        {
+          "type": "heading",
+          "text": "2. eSIM is already installed .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most often, the eSIM is already installed on your phone. This can happen in the background after scanning the QR code. <strong> Please verify the following settings:</strong>"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open <strong>Settings</strong> ",
+            "Tap  <strong>Cellular </strong> (or <strong> 'Mobile Data'</strong> in the UK) ",
+            "Tap <strong>Cellular Data </strong> at the top, and select the eSIM plan on the following page. This will tell the phone to use the eSIM plan for data connections. ",
+            "Return to  <strong> Cellular</strong>, scroll down and tap your eSIM plan. It may be called 'Personal', 'Travel', or 'Secondary'. ",
+            "Confirm  <strong>Turn On This Line  </strong>is ON ",
+            "Confirm  <strong>Data Roaming </strong> is ON"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you can find the Maya Mobile eSIM following the steps above, and the settings are correct, the eSIM will be ready to connect automatically when you arrive. No further action is required!"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "question": " Error This code is no longer valid on iPhone",
+    "answer": {
+      "sections": [
+        {
+          "type": "heading",
+          "text": "Data Plan Cannot be Added"
+        },
+        {
+          "type": "heading",
+          "text": "\"This code is no longer valid. Contact your carrier for more information.\""
+        },
+        {
+          "type": "paragraph",
+          "text": "After activating your eSIM via QR code or manual activation code, you may see the above error message on your iPhone."
+        },
+        {
+          "type": "heading",
+          "text": "Solution"
+        },
+        {
+          "type": "heading",
+          "text": "1. Check internet connection"
+        },
+        {
+          "type": "paragraph",
+          "text": "First, please make sure your phone has a working Wi-Fi or cellular internet connection before installing the eSIM. An internet connection is required to verify and activate the eSIM."
+        },
+        {
+          "type": "heading",
+          "text": "2. eSIM is already installed .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most often, the eSIM is already installed on your phone. This can happen in the background after scanning the QR code. <strong> Please verify the following settings:</strong>"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open <strong>Settings</strong> ",
+            "Tap  <strong>Cellular </strong> (or <strong> 'Mobile Data'</strong> in the UK) ",
+            "Tap <strong>Cellular Data </strong> at the top, and select the eSIM plan on the following page. This will tell the phone to use the eSIM plan for data connections. ",
+            "Return to  <strong> Cellular</strong>, scroll down and tap your eSIM plan. It may be called 'Personal', 'Travel', or 'Secondary'. ",
+            "Confirm  <strong>Turn On This Line  </strong>is ON ",
+            "Confirm  <strong>Data Roaming </strong> is ON"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you can find the Maya Mobile eSIM following the steps above, and the settings are correct, the eSIM will be ready to connect automatically when you arrive. No further action is required!"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "question": " Error \"Data Plan Cannot be Added\" on iPhone",
+    "answer": {
+      "sections": [
+        {
+          "type": "heading",
+          "text": "Data Plan Cannot be Added "
+        },
+        {
+          "type": "heading",
+          "text": "\"You can try again, or contact your carrier for assistance.\""
+        },
+        {
+          "type": "paragraph",
+          "text": "After activating your eSIM via QR code or manual activation code, you may see the above error message on your iPhone."
+        },
+        {
+          "type": "heading",
+          "text": "Solution"
+        },
+        {
+          "type": "heading",
+          "text": "1. Check internet connection"
+        },
+        {
+          "type": "paragraph",
+          "text": "First, please make sure your phone has a working Wi-Fi or cellular internet connection before installing the eSIM. An internet connection is required to verify and activate the eSIM."
+        },
+       {
+          "type": "heading",
+          "text": "2. eSIM is already installed .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Most often, the eSIM is already installed on your phone. This can happen in the background after scanning the QR code. <strong> Please verify the following settings:</strong>"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open <strong>Settings</strong> ",
+            "Tap  <strong>Cellular </strong> (or <strong> 'Mobile Data'</strong> in the UK) ",
+            "Tap <strong>Cellular Data </strong> at the top, and select the eSIM plan on the following page. This will tell the phone to use the eSIM plan for data connections. ",
+            "Return to  <strong> Cellular</strong>, scroll down and tap your eSIM plan. It may be called 'Personal', 'Travel', or 'Secondary'. ",
+            "Confirm  <strong>Turn On This Line  </strong>is ON ",
+            "Confirm  <strong>Data Roaming </strong> is ON"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If you can find the Maya Mobile eSIM following the steps above, and the settings are correct, the eSIM will be ready to connect automatically when you arrive. No further action is required!"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "question": " Error \"Unsupported eSIM\"",
+    "answer": {
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "After activating your eSIM via QR code or manual activation code, you may see the following error message: "
+        },
+        {
+          "type": "heading",
+          "text": "Unsupported eSIM"
+        },
+        {
+          "type": "heading",
+          "text": " <strong>This eSIM is from a carrier that is not currently supported on this iPhone </strong>. \n \n"  
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/19.jpeg"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This error indicates that your device is locked by your carrier, and is not allowed to install plans from other carriers. "
+        },
+        {
+          "type": "paragraph",
+          "text": "You can verify if your device is locked by following the steps below:"
+        },
+        {
+          "type": "list",
+"items": [
+  "Go to <strong>Settings</strong> > <strong>General</strong>, and tap <strong>About</strong>",
+  "Under <strong>Carrier Lock</strong>, you should see the message: <red>No SIM restrictions</red>",
+  "If the <strong>Carrier Lock</strong> field says something different, the device is <red>locked</red>."
+]
+
+        },
+        {
+          "type": "heading",
+          "text": "Solutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please contact your carrier to have your device unlocked. It can usually be done over-the-air by contacting the carrier's Customer Service phone number or live chat."
+        }
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "question": "How to Enable Calling and Texting on your eSIM (Wi-Fi Calling)",
+    "answer": {
+      "sections": [
+        {
+          "type": "heading",
+          "text": "VoIP Calling and Texting .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can make and receive calls using your regular phone number if your carrier supports <strong>Wi-Fi Calling</strong>  If this feature is enabled on your device, your phone will connect to your home carrier's network over the internet using the eSIM data connection. (VoIP)."
+        },
+        {
+          "type": "paragraph",
+          "text": "This will allow you to make and receive calls and texts with<strong> no roaming fees and no additional costs </strong>, because the call will be going over the data connection."
+        },
+        {
+          "type": "heading",
+          "text": "WhatsApp .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "You can also use <strong>WhatsApp </strong>and other apps linked to your phone number, which will use the eSIM data <strong> connection automatically, no setup required </strong>.  Adding a Maya Mobile eSIM will not change your WhatsApp number."
+        },
+        {
+          "type": "heading",
+          "text": "Enable Wi-Fi Calling .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Follow the steps below to enable <strong> Wi-Fi Calling (VoIP)</strong> on your phone:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Open <strong> Settings</strong>",
+            "Make sure your Default Voice Line is set to Primary (your regular phone number",
+            "Under Cellular Plans, select <strong>Primary </strong>(your regular phone number) ",
+            "Make sure<strong> Turn On This Line is ON</strong>",
+            "Look for<strong> Wi-Fi Calling  </strong>and set the option to ON",
+            "Check <strong>Data Roaming </strong>is set to OFF"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Example .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Navigate to<strong> Settings </strong>> <strong>Cellular</strong> and tap your<strong> Primary line.</strong> (The Cellular section may be called Mobile or Mobile Service on your device.) "
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/21.PNG"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Using Wi-Fi Calling .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "When Wi-Fi Calling is enabled, the phone will use any available internet connection (eSIM data or Wi-Fi) to connect to your home carrier. You should see something like \"Carrier Wi-Fi\" in your status bar, where Carrier is your home mobile plan provider's name"
+        },
+        {
+          "type": "paragraph",
+          "text": "When active and connected, your Primary line will automatically receive SMS and calls via the eSIM internet connection. "
+        },
+        {
+          "type": "paragraph",
+          "text": "If the option is not available under your Primary plan, unfortunately it is not supported by your carrier. This capability is carrier-dependent, and not related to the eSIM."
+        },
+        {
+          "type": "heading",
+          "text": "Local Phone Number .\n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note that our eSIM plans do not include a local phone number, as they are data plans only."
+        },
+        {
+          "type": "heading",
+          "text": "Carrier Roaming Charges . \n \n"
+        },
+        {
+          "type": "paragraph",
+          "text": "Our eSIM data plans are intended to replace your local carrier's roaming plan and prevent any additional roaming charges. When the eSIM is installed correctly,<strong> typically your local carrier will not charge any additional roaming fees</strong>"
+        },
+        {
+          "type": "list",
+          "items": [
+            "<strong>Roaming Data Charges</strong>: Will not be charged as long as the eSIM is installed and configured correctly, and Data Roaming is turned off on your regular phone plan.",
+            "<strong>International Call Charges</strong>: May be charged by some carriers even when using Wi-Fi calling with the eSIM data connection (not common).",
+            "<strong>International SMS Charges</strong>: May be charged by some carriers even when using Wi-Fi calling with the eSIM data connection (not common)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note that Maya Mobile does not interact with your home carrier, and we have no control over your phone plan. It is always best to contact your carrier to confirm if there are any roaming fees when using Wi-Fi Calling abroad."
+        }
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "question": " Activate an eSIM with Manual Activation Code",
+    "answer": {
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "If you are unable to scan the activation QR code, or prefer to activate a different way, you can enter a <strong> Manual Activation Code </strong> on your device.  "
+        },
+        {
+          "type": "paragraph",
+          "text": "Follow the steps below to request your eSIM activation code:"
+        },
+        {
+          "type": "list",
+        "items": [
+  "<blue>Log in </blue> to your Maya Mobile account.",
+  "Click <strong>My eSIMs</strong> in the navigation menu.",
+  "Click <strong>Install eSIM</strong> under your plan, and click <strong>Manual Activation Code</strong> on the pop-up.",
+            "Copy the activation code, and enter it on your device when prompted. ",
+            "Look for Wi-Fi Calling and set the option to ON"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "iOS / iPhone .\n \n"
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/22.PNG",
+            "/images/faq/23.PNG",
+            "/images/faq/24.PNG"
+          ]
+        },
+        {
+          "type": "list",
+          "items": [
+  "Open <strong>Settings</strong> and go to <strong>Cellular</strong> (it may be called <strong>Mobile</strong> or <strong>Mobile Service</strong>)",
+  "Under <strong>Cellular Plans</strong>, tap <strong>Add eSIM</strong>. Your phone's camera will open.",
+  {
+    "text": "Tap <strong>Enter Details Manually</strong> near the bottom of the camera screen.",
+    "subitems": [
+      "Enter the <strong>SM-DP+ Address</strong> shown in your account.",
+      "Enter the <strong>Activation Code</strong> shown in your account.",
+      "<strong>Do not</strong> enter a Confirmation Code. It's not required."
+    ]
+  },
+  "Tap <strong>Next</strong> in the top right and follow the prompts to continue the <strong>eSIM installation</strong>. .\n \n"
+
+]
+
+        },
+        {
+          "type": "paragraph",
+          "text": "<strong>Note</strong> If you receive an error like \"Unable to Activate eSIM,\" it's possible that the eSIM is <strong> already installed on your phone! </strong> Please follow the  <blue>eSIM Connection Troubleshooting Guide</blue> to check your phone's settings."
+        },
+        {
+          "type": "heading",
+          "text": "Android 13 / Google Pixel"
+        },
+        {
+          "type": "images",
+          "images": [
+            "/images/faq/25.png",
+            "/images/faq/26.png"
+          ]
+        },".\n \n",
+        {
+          "type": "list",
+         "items": [
+  "Open <strong>Settings</strong>",
+  "Go to <strong>Network and Internet</strong>",
+  "Look for <strong>SIMs</strong>, and tap the <strong>+</strong> icon",
+  "Tap <strong>Download a SIM instead?</strong> near the bottom of the screen",
+  "On the message that appears, tap <strong>Yes</strong>, then tap <strong>Next</strong>. The phone's camera will open.",
+  "Tap <strong>Need help?</strong> at the bottom of the screen",
+  "On the ‘Help adding a network’ screen, underneath ‘Having trouble scanning your QR code’, you can tap <strong>Enter it manually</strong>.",
+  "Now enter the Manual Activation Code<strong> exactly as it appears in your</strong> <strong>Maya Mobile account</strong> .",
+  "Follow the steps on the screen to confirm the new data plan."
+]
+
+        }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "question": "Solution: No signal after activating eSIM",
+    "answer": {
+      "sections": [
+        {
+          "type": "paragraph",
+          "text": "There are multiple reasons why your device is unable to find a signal after successfully installing an eSIM. You may experience the following problems after installing your eSIM:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "No signal bars",
+            "Phone searching for signa",
+            "Signal status shows \"No connection\""
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The most common reason for this is that you are not currently located in the eSIM service area. Please note that an Italian eSIM will only connect in Italy, and a USA eSIM will only connect in the USA, and so on!  "
+        },
+        {
+          "type": "paragraph",
+          "text": "If you are sure you installed the right eSIM plan, don't worry, we have collected the best troubleshooting steps in one guide to solve the problem. Please follow the steps in our eSIM Connection Troubleshooting Guide.  "
+        }
+      ]
+    }
+  }
+]

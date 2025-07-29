@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "홈",
+    "destinations": "목적지",
+    "howItWorks": "작동 방식",
+    "coverage": "커버리지",
+    "help": "도움말",
+    "blog": "블로그",
+    "about": "회사 소개",
+    "careers": "채용",
+    "referral": "추천",
+    "faq": "자주 묻는 질문",
+    "terms": "서비스 약관",
+    "compatiblePhones": "호환 기기",
+    "allPlans": "모든 요금제",
+    "viewCart": "장바구니 보기",
+    "login": "로그인",
+    "signUp": "회원가입",
+    "language": "언어",
+    "darkMode": "다크 모드",
+    "lightMode": "라이트 모드",
+    "search": "목적지 검색...",
+    "popular": "인기",
+    "regional": "지역"
+  },
+  "languages": {
+    "en": "영어",
+    "ur": "우르두어",
+    "ar": "아랍어",
+    "fr": "프랑스어",
+    "es": "스페인어",
+    "de": "독일어",
+    "zh": "중국어",
+    "ja": "일본어",
+    "ko": "한국어",
+    "pt": "포르투갈어",
+    "ru": "러시아어",
+    "hi": "힌디어"
+  },
+  "footer": {
+    "description": "글로벌 연결을 위한 신뢰할 수 있는 파트너. 프리미엄 eSIM 솔루션으로 전 세계 어디서나 연결 상태를 유지하세요.",
+    "headquarters": "글로벌 본사",
+    "supportAvailable": "24/7 지원 이용 가능",
+    "email": "support@Connectra eSim.com",
+    "popularDestinations": {
+      "title": "인기 목적지",
+      "canada": "캐나다 🇨🇦",
+      "uk": "영국 🇬🇧",
+      "russia": "러시아 🇷🇺",
+      "uae": "아랍에미리트 🇦🇪",
+      "dubai": "두바이 🇦🇪"
+    },
+    "connectraSim": {
+      "title": "ConnectraeSim",
+      "referFriend": "친구 추천",
+      "termsOfService": "서비스 약관",
+      "aboutUs": "회사 소개",
+      "careers": "채용"
+    },
+    "esim": {
+      "title": "eSIM",
+      "whatIsEsim": "eSIM이란",
+      "supportedDevices": "지원 기기",
+      "howItWorks": "작동 방식",
+      "faqs": "자주 묻는 질문",
+      "blog": "블로그"
+    },
+    "helpSocial": {
+      "title": "도움말 & 소셜",
+      "helpCenter": "도움말 센터",
+      "esimCompatiblePhones": "eSIM 호환 전화",
+      "supportCenter": "지원 센터",
+      "contactUs": "문의하기",
+      "followUs": "팔로우"
+    },
+    "paymentMethods": "지원 결제 수단:",
+    "copyright": "© 2025 Connectra eSim. ",
+    "madeBy": "by",
+    "techTrack": "TechTrack",
+    "company": "회사",
+    "support": "지원",
+    "legal": "법적 사항",
+    "newsletter": "뉴스레터",
+    "newsletterDesc": "업데이트와 오퍼를 받으려면 구독하세요",
+    "subscribe": "구독",
+    "allRightsReserved": "모든 권리 보유",
+    "privacyPolicy": "개인정보 보호정책",
+    "contact": "연락처"
+  }
+}

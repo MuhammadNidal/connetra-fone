@@ -1,0 +1,188 @@
+[
+    {
+      "id": "q1",
+      "question": "Forgot username/password, or can't log in to your account",
+      "answer": [
+        { "type": "heading", "text": "Having trouble logging in to your account?" },
+        { "type": "paragraph", "text": "Follow the steps below to recover access. You can always contact us directly for help." },
+        { "type": "heading", "text": "Forgot Email" },
+        { "type": "paragraph", "text": "Use the Forgot Password link to reset the password associated with your email address. Enter each email address you may have used for the account." },
+        { "type": "paragraph", "text": "If you do not receive any email, please contact us to verify your account and update your email." },
+        { "type": "heading", "text": "Forgot Password" },
+        { "type": "paragraph", "text": "Use the Reset Password link to reset your password with your email address." },
+        {
+          "type": "list",
+          "items": [
+            "Visit: https://connectraesim/account/forgot-password",
+            "Enter the email address associated with your account",
+            "Check your email for a password reset link"
+          ]
+        },
+        { "type": "heading", "text": "No Access to Phone for Verification" },
+        { "type": "paragraph", "text": "Please contact us to verify your account and update your phone number. Provide the following:" },
+        {
+          "type": "list",
+          "items": [
+            "Full First Name and Last Name",
+            "Email Address",
+            "Phone Number (Currently associated with account)",
+            "An Invoice Number, Order Number, or other identifier"
+          ]
+        },
+        { "type": "heading", "text": "Contact Us" },
+        {
+          "type": "list",
+          "items": [
+            "Submit A Request: https://connectraesim/requests/new",
+            "Email Us: support@connectraesim.com",
+            "Live Chat: https://connectraesim.com"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Adding VAT ID and Company Name to Invoices",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "You can update your organization's Billing Details in your ConnectraeSIM  Mobile account, on the Profile page: https://connectraesim.com/profile"
+        },
+        {
+          "type": "paragraph",
+          "text": "When updated, the following will appear on invoices:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Organization Name",
+            "Tax ID Number",
+            "Organization Billing Address"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Download any invoice from the Bill & Payments page, click the Invoice, and then Download."
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Automatically renew an eSIM Data Plan",
+      "answer": [
+        { "type": "paragraph", "text": "To enable auto-renew, follow these steps:" },
+        {
+          "type": "list",
+          "items": [
+            "Log in to your ConnectraeSIM account",
+            "Go to the Data Plans page",
+            "Find the related eSIM",
+            "Click Enable Auto Renew or Cancel Auto Renew"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Auto Renew extends your data plan each month for 30 days. You can toggle this anytime."
+        },
+        { "type": "heading", "text": "Limitations for Long Term Monthly Renewal" },
+        {
+          "type": "paragraph",
+          "text": "Service is for short-term travel (up to 90 days). Renewal beyond 180 days is generally not permitted."
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Download an invoice for an order",
+      "answer": [
+        {
+          "type": "list",
+          "items": [
+            "Log in to your ConnectraeSIM account",
+            "Go to the Account page",
+            "Select the Orders tab",
+            "View the Invoice and click Download"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Add or Remove a Payment Method",
+      "answer": [
+        {
+          "type": "list",
+          "items": [
+            "Log in to your ConnectraeSIM account",
+            "Go to the Account page",
+            "Select the Payment Methods tab",
+            "Click Add Payment Method"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You can only remove a payment method if there's more than one. At least one method must be active for accounts with services."
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "Change your account email address or phone number",
+      "answer": [
+        {
+          "type": "list",
+          "items": [
+            "Log in to your ConnectraeSIM account",
+            "In the top-right menu, go to Profile & Settings",
+            "Update your Name, Email, and Phone",
+            "Click Update Settings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "question": "Reset a Lost Password",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "To reset a lost password, go to the Password Reset page."
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "question": "How to Cancel Your Order",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "Please do not mark your request Solved after viewing this article. Each refund request must be reviewed manually."
+        },
+        { "type": "heading", "text": "Submit a Cancellation" },
+        {
+          "type": "paragraph",
+          "text": "Email support@connectraesim.com or Submit a request to cancel your order."
+        },
+        { "type": "heading", "text": "Request a Refund" },
+        {
+          "type": "paragraph",
+          "text": "If your plan doesn’t work or can’t be installed, we offer a 100% refund (no data usage required)."
+        },
+        {
+          "type": "paragraph",
+          "text": "To request a refund, please Submit a request."
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "question": "Delete your Connectraesim account",
+      "answer": [
+        {
+          "type": "paragraph",
+          "text": "To delete your account, submit a request to Customer Service by emailing support@connectraesim.com or using Contact Us."
+        }
+      ]
+    }
+  ]
+  

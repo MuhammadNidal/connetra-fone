@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Início",
+    "destinations": "Destinos",
+    "howItWorks": "Como funciona",
+    "coverage": "Cobertura",
+    "help": "Ajuda",
+    "blog": "Blog",
+    "about": "Sobre nós",
+    "careers": "Carreiras",
+    "referral": "Indicação",
+    "faq": "Perguntas frequentes",
+    "terms": "Termos de serviço",
+    "compatiblePhones": "Telefones compatíveis",
+    "allPlans": "Todos os planos",
+    "viewCart": "Ver carrinho",
+    "login": "Entrar",
+    "signUp": "Cadastrar",
+    "language": "Idioma",
+    "darkMode": "Modo escuro",
+    "lightMode": "Modo claro",
+    "search": "Buscar destinos...",
+    "popular": "Popular",
+    "regional": "Regional"
+  },
+  "languages": {
+    "en": "Inglês",
+    "ur": "Urdu",
+    "ar": "Árabe",
+    "fr": "Francês",
+    "es": "Espanhol",
+    "de": "Alemão",
+    "zh": "Chinês",
+    "ja": "Japonês",
+    "ko": "Coreano",
+    "pt": "Português",
+    "ru": "Russo",
+    "hi": "Hindi"
+  },
+  "footer": {
+    "description": "Seu parceiro confiável para conectividade global. Mantenha-se conectado em qualquer lugar do mundo com nossas soluções eSIM premium.",
+    "headquarters": "Sede Global",
+    "supportAvailable": "Suporte 24/7 disponível",
+    "email": "support@Connectra eSim.com",
+    "popularDestinations": {
+      "title": "Destinos Populares",
+      "canada": "Canadá 🇨🇦",
+      "uk": "Reino Unido 🇬🇧",
+      "russia": "Rússia 🇷🇺",
+      "uae": "Emirados Árabes Unidos 🇦🇪",
+      "dubai": "Dubai 🇦🇪"
+    },
+    "connectraSim": {
+      "title": "ConnectraeSim",
+      "referFriend": "Indicar Amigo",
+      "termsOfService": "Termos de Serviço",
+      "aboutUs": "Sobre Nós",
+      "careers": "Carreiras"
+    },
+    "esim": {
+      "title": "eSIM",
+      "whatIsEsim": "O que é eSIM",
+      "supportedDevices": "Dispositivos Suportados",
+      "howItWorks": "Como Funciona",
+      "faqs": "Perguntas Frequentes",
+      "blog": "Blog"
+    },
+    "helpSocial": {
+      "title": "Ajuda & Social",
+      "helpCenter": "Central de Ajuda",
+      "esimCompatiblePhones": "Telefones Compatíveis com eSIM",
+      "supportCenter": "Central de Suporte",
+      "contactUs": "Fale Conosco",
+      "followUs": "Siga-nos"
+    },
+    "paymentMethods": "Aceitamos:",
+    "copyright": "© 2025 Connectra eSim. Feito com",
+    "madeBy": "por",
+    "techTrack": "TechTrack",
+    "company": "Empresa",
+    "support": "Suporte",
+    "legal": "Legal",
+    "newsletter": "Newsletter",
+    "newsletterDesc": "Inscreva-se para receber atualizações e ofertas",
+    "subscribe": "Inscrever",
+    "allRightsReserved": "Todos os direitos reservados",
+    "privacyPolicy": "Política de Privacidade",
+    "contact": "Contato"
+  }
+}

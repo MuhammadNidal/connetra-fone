@@ -1,0 +1,16 @@
+/* Add to your europePlanPricing.css or create a new CSS file */
+.all-plans-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.all-plans-container .esim-cards {
+  justify-content: flex-start;
+  gap: 20px;
+}
+
+.all-plans-container .esim-card {
+  flex: 1 1 calc(33.333% - 20px);
+  min-width: 300px;
+}
